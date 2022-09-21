@@ -12,3 +12,6 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me:
 - rhaydrick@gmail.com
 - https://www.linkedin.com/in/rhaydrick-sandokhan
+
+
+![Sandokhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandokhan&show_icons=true)
