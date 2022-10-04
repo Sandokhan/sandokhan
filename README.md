@@ -14,3 +14,8 @@ Here are some ideas to get you started:-->
 - https://www.linkedin.com/in/rhaydrick-sandokhan
 
 
+
+![Sandokhans's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandokhan&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandokhan&layout=compact)](https://github.com/sandokhan/github-readme-stats)
